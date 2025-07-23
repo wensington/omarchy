@@ -5,4 +5,4 @@ yay -S --noconfirm --needed \
   imagemagick \
   github-cli \
   lazygit lazydocker-bin \
-  s5cmd hugo
+  s5cmd hugo vscodium-bin
